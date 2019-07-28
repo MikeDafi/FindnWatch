@@ -6,20 +6,24 @@
  ```
  git clone https://github.com/MikeDafi/FindnWatch.git
  cd FindnWatch
- ./FindnWatch1.0\ Executable.exe
+ ./FindnWatch1.1\ Executable.exe
  ```
 
 ### Prerequisites
 - Updated version of Chrome
 - An Internet Connection to the device running the software
 - JRE 1.8  or Newer
+- To run the script, installer Inno Setup Compiler
  
 ### Installing
- Within the cloned repository, click on **FindnWatch Installer**
+ Within the cloned repository, click on **FindnWatch Installer**:
  ```
- ./FindnWatch\ Installer.e
+ ./FindnWatch1.1\ Installer.e
  ```
- 
+ For a console-driven  installer, click on **FindnWatch1.1 w Console Installer**
+  ```
+ ./FindnWatch1.1\ w\ Console\ Installer.e
+ ```
 ### Features:
 - configured to setup a localhost
 - informs the status of internet connection
