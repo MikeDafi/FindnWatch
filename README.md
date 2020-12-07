@@ -1,5 +1,5 @@
 # FindnWatch
-  The capability of dynamically finding the largest spot on the screen then placing a chrome browser in that space.
+  Have you ever been in situation where you use half your window screen to do work and the other half to watch a movie. Don't you wish you can just use all your window space for work and have your movie playing somewhere else. The only issue is where is that somewhere else. If you leave it stagnant in a corner, then you might end up needing that space. Here comes FindnWatch!!!  FindnWatch will read each rgb value on your screen. Once the program has found a rectangle made of the same color, then the program will place a Selenium browser in that spot. You will simply copy the link that you wanted to watch the movie from and the program will put that link in the Selenium Browser. Besides the basic functionality, there are commands you can run that are listed below. If you forget any of these commands, don't fret. There is a system tray icon that is there for any assistance of reference to these commands. finding the largest spot on the screen then placing a chrome browser in that space.
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Done
   - ```Alt + w``` rescreenshots and refinds the largest rectangles(s)
   - ```Alt + e``` brings the browser to the front of the screen
   - ```Alt + s``` quits browser, reopens browser with new contents in clipboard as input to the browser
-  - ```Alt + a``` alternates betweens a fullscreen browser and the current browser's position/size
+  - ```Alt + a``` alternates between a fullscreen browser and the current browser's position/size
   - ```Alt + f``` alternates between largest and second largest rectangle
   - ```Alt + d``` alternates between browser taking up the left half or right half of the screen
   
